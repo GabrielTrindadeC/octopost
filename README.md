@@ -1,10 +1,6 @@
 # OctoPost: Aplicativo All-in-One para Redes Sociais
 
-![https://img.shields.io/badge/Electron-13.1-blueviolet](https://img.shields.io/badge/Electron-blueviolet)![https://img.shields.io/badge/TypeScript-blue](https://img.shields.io/badge/TypeScript-blue)![https://img.shields.io/badge/SCSS-orange](https://img.shields.io/badge/SCSS-orange)
---
-
-
-
+## ![https://img.shields.io/badge/Electron-13.1-blueviolet](https://img.shields.io/badge/Electron-blueviolet)![https://img.shields.io/badge/TypeScript-blue](https://img.shields.io/badge/TypeScript-blue)![https://img.shields.io/badge/SCSS-orange](https://img.shields.io/badge/SCSS-orange)
 
 Bem-vindo ao OctoPost! O OctoPost é um aplicativo de redes sociais único que permite aos usuários fazerem publicações em várias plataformas de mídia social, tudo dentro de uma única interface unificada. Este documento README irá guiá-lo através das informações básicas sobre o projeto, seu propósito e como contribuir de forma eficaz.
 
@@ -46,7 +42,8 @@ Se tiver alguma dúvida ou precisar de ajuda, fique à vontade para entrar em co
 
 ## **License**
 
-Atente-se a nossa [Lincença de Distribuição](https://github.com/Alecell/octopost/blob/master/LICENSE).
----
+## Atente-se a nossa [Lincença de Distribuição](https://github.com/Alecell/octopost/blob/master/LICENSE).
 
 Obrigado pelo seu interesse no OctoPost! Esperamos suas contribuições e esperamos que você aproveite o aplicativo tanto quanto nós gostamos de construí-lo.
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMt6wb7U=/?moveToViewport=-4079,-406,2309,1173&embedId=914789795392" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>

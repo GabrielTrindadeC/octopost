@@ -4,6 +4,8 @@ import CharacterLimit from '~components/CharacterLimit/CharacterLimit';
 import Testinho from '~components/Testinho/Testinho';
 import TextCopy from '~components/TextCopy/TextCopy';
 
+import RedditSwitch from './RedditSwitch/RedditSwitch';
+
 import scss from './home.module.scss';
 
 const Home = () => {
@@ -16,13 +18,14 @@ const Home = () => {
   return (
     <div className={scss.mainContainer}>
       <div className={scss.gridContainer}>
-        <div className={scss.gridSwitches} />
+        <div className={scss.gridSwitches}>
+          <RedditSwitch />
+        </div>
         <div className={scss.gridInput}>
           <div className={scss.sections}>
             <div>
               <CharacterLimit maxLength={140} />
             </div>
-
             <div>
               <input
                 type="text"
